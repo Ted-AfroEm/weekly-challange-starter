@@ -1,6 +1,6 @@
 function QrCode() {
   return (
-    <div className="min-h-screen flex justify-center items-center bg-blue-100">
+    <div className="min-h-screen flex justify-center items-center bg-blue-50">
       <div className="w-64 font-outfit flex flex-col gap-4 bg-white p-3 pb-8 text-center text-sm rounded-xl shadow-xl">
         <img
           src="/challanges/qr-code-component-main/images/image-qr-code.png"
